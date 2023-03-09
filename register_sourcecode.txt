@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>registerpage</title>
+</head>
+<body>
+  <h1>Register</h1>
+  <h2>Please fill the form to register yourself</h2>
+  <hr>
+  
+  <label for=""><h2>please enter email:</h2></label>
+  <input type="text" placeholder="email" >
+  <label for=""><h2>please enter password:</h2></label>
+  <input type="password" placeholder="password" >
+  <label for=""><h2>please confirm password:</h2></label>
+  <input type="password" placeholder="password" ><br><br>
+ <button> register</button>
+ <hr>
+
+ <h2> Already having an account?then please sigh <a href="login.html" target="_blank">here</a></h2>
+</body>
+</html>
